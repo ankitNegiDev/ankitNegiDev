@@ -10,17 +10,17 @@
 
 ## 🧠 Projects
 
-### 🔗 [YouTube Clone](https://github.com/ankitNegiDev/youtube-clone)
+### 🔗 [YouTube Clone](https://github.com/ankitNegiDev/MY_YT_PROJECT)
 
 A full-stack video platform built with MERN. Users can upload, watch, like, and comment on videos.  
 Tech: React, Node.js, MongoDB, JWT, Cloudinary
 
-### 🔗 [Shoppy Globe](https://github.com/ankitNegiDev/shoppy-globe)
+### 🔗 [Shoppy Globe](https://github.com/ankitNegiDev/Shoopy-Globe)
 
 Responsive React-based ecommerce frontend with cart logic and product filters. Backend built separately.  
 Tech: React, Node.js, MongoDB
 
-### 🔗 [Hangman Game](https://github.com/ankitNegiDev/hangman-react)
+### 🔗 [Hangman Game](https://github.com/ankitNegiDev/HangmanGame)
 
 A fun word guessing game built with React hooks and custom CSS.
 
