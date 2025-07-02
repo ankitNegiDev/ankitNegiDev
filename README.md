@@ -24,7 +24,7 @@ Tech: React, Node.js, MongoDB
 
 A fun word guessing game built with React hooks and custom CSS.
 
-## 📄 [Download My Resume](https://drive.google.com/...)  
+## 📄 [Download My Resume](https://drive.google.com/...)
 
 ## 📫 Contact Me  
 
