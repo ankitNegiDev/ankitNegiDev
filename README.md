@@ -122,7 +122,7 @@ Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on buil
 | Project | Description |
 |--------|-------------|
 | 🎥 [**YouTube Clone**](https://github.com/ankitNegiDev/MY_YT_PROJECT) | Full-featured video platform built with React, Node, MongoDB |
-| 🧠 [**Hangman Game**](https://github.com/ankitNegiDev/hangman-game) | Classic word-guessing game in React with scoring logic |
+| 🧠 [**Hangman Game**](https://hangman-game-p444.vercel.app/) | Classic word-guessing game in React with scoring logic |
 | 🛍️ [**Shoppy Globe**](https://github.com/ankitNegiDev/shoppy-globe) | E-commerce platform with user auth, cart, and product management |
 
 ---
