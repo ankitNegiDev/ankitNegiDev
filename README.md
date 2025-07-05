@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ankit Negi
+<!-- # 👋 Hi, I'm Ankit Negi
 
 🚀 MERN Stack Developer | Passionate about building full-stack web apps
 
@@ -29,4 +29,104 @@ A fun word guessing game built with React hooks and custom CSS.
 ## 📫 Contact Me  
 
 - 📧 <ankitnegi9104@gmail.com>  
-- 🌐 [LinkedIn](https://linkedin.com/in/ankit-negi-0a3858339)  
+- 🌐 [LinkedIn](https://linkedin.com/in/ankit-negi-0a3858339)   -->
+
+<!-- Typing SVG Hero Section -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Hi+I'm+Ankit+Negi!;Full+Stack+Developer;Building+cool+real-world+projects;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Ankit Negi</h1>
+
+<p align="center">
+    Full Stack Developer (MERN) | Enthusiastic about WebRTC, AI integration, and building scalable, high-impact web applications.
+</p>
+
+---
+
+### About Me
+
+Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on building powerful real-world web apps with the **MERN stack**.  
+
+- Exploring **Video Streaming**, **WebRTC**, and **Next.js**
+- Learning every day, building ambitious full stack projects
+- Currently working on: some cool projects *(coming soon)*
+- Email: [ankitnegidev@gmail.com](mailto:ankitnegidev@gmail.com)
+- Portfolio: [ankitnegi.dev](https://#) *(Coming soon)*
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ankit-negi-0a3858339/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ankitNegiDev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ankitnegidev@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+  </a>
+</p>
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+###  GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitNegiDev&show_icons=true&theme=radical&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitNegiDev&layout=compact&theme=radical&hide=c,cpp" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitNegiDev&theme=radical" height="180"/>
+</p>
+
+---
+
+<h3 align="left">Statistics</h3>
+
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitNegiDev&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitNegiDev&theme=radical" />
+</p>
+
+
+### ⚡ GitHub Activity Graph
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitNegiDev&theme=github-compact"/>
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎥 [**YouTube Clone**](https://github.com/ankitNegiDev/youtube-clone) | Full-featured video platform built with React, Node, MongoDB |
+| 🧠 [**Hangman Game**](https://github.com/ankitNegiDev/hangman-game) | Classic word-guessing game in React with scoring logic |
+| 🛍️ [**Shoppy Globe**](https://github.com/ankitNegiDev/shoppy-globe) | E-commerce platform with user auth, cart, and product management |
+
+---
+
+<p align="center">
+  <img src="./animation.svg" width="100%" />
+</p>
