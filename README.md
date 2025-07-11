@@ -68,7 +68,7 @@ Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on buil
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/ankitNegiDev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:ankitnegidev@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
