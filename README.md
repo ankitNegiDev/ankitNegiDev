@@ -43,16 +43,20 @@ A fun word guessing game built with React hooks and custom CSS.
     Full Stack Developer (MERN) | Enthusiastic about WebRTC, AI integration, and building scalable, high-impact web applications.
 </p>
 
+<p align="start">
+  <img src="https://komarev.com/ghpvc/?username=ankitNegiDev&label=Profile%20Views&color=0e75b6&style=flat" alt="ankitNegiDev" />
+</p>
+
 ---
 
 ### About Me
 
-Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on building powerful real-world web apps with the **MERN stack**.  
+Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on building powerful real-world web apps with the **MERN stack**.
 
 - Exploring **Video Streaming**, **WebRTC**, and **Next.js**
 - Learning every day, building ambitious full stack projects
 - Currently working on: some cool projects *(coming soon)*
-- Email: [ankitnegidev@gmail.com](mailto:ankitnegidev@gmail.com)
+- Email: [ankitnegi9104@gmail.com](mailto:ankitnegidev@gmail.com)
 - Portfolio: [ankitnegi.dev](https://#) *(Coming soon)*
 
 ---
