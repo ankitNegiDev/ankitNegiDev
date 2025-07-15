@@ -57,7 +57,7 @@ Hi, I'm **Ankit Negi** — a passionate **Full Stack Developer** focused on buil
 - Learning every day, building ambitious full stack projects
 - Currently working on: some cool projects *(coming soon)*
 - Email: [ankitnegi9104@gmail.com](mailto:ankitnegidev@gmail.com)
-- Portfolio: [ankitnegi.dev](https://#) *(Coming soon)*
+- Portfolio: [ankitnegi link](https://portfolio-frontend-two-sigma.vercel.app/) *(added)*
 
 ---
 
